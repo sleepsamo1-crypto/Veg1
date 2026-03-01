@@ -1,0 +1,1671 @@
+[crawl_recent] db_max_date=2026-02-02 start_date=2026-01-22 end_date=2026-02-03 (days=7, overlap=7)
+
+==> Ʒ�������� baicai
+  p1: keep=30 page_min=2026-01-28 page_max=2026-02-02
+  p2: keep=30 page_min=2026-01-23 page_max=2026-01-28
+  p3: keep=11 page_min=2026-01-18 page_max=2026-01-23
+  p3: reached older than start_date, stop.
+
+==> Ʒ�������� qincai
+  p1: keep=30 page_min=2026-01-23 page_max=2026-02-02
+  p2: keep=5 page_min=2026-01-13 page_max=2026-01-23
+  p2: reached older than start_date, stop.
+
+==> Ʒ�������� bocai
+  p1: keep=30 page_min=2026-01-23 page_max=2026-02-02
+  p2: keep=5 page_min=2026-01-13 page_max=2026-01-23
+  p2: reached older than start_date, stop.
+
+==> Ʒ�������� woju
+  p1: keep=30 page_min=2026-01-29 page_max=2026-02-02
+  p2: keep=30 page_min=2026-01-25 page_max=2026-01-29
+  p3: keep=22 page_min=2026-01-20 page_max=2026-01-25
+  p3: reached older than start_date, stop.
+
+==> Ʒ�������� hg
+  p1: keep=24 page_min=2026-01-18 page_max=2026-02-02
+  p1: reached older than start_date, stop.
+
+==> Ʒ�������� tudou
+  p1: keep=21 page_min=2026-01-16 page_max=2026-02-02
+  p1: reached older than start_date, stop.
+
+==> Ʒ�������� fanqie
+  p1: keep=30 page_min=2026-01-23 page_max=2026-02-02
+  p2: keep=5 page_min=2026-01-13 page_max=2026-01-23
+  p2: reached older than start_date, stop.
+
+==> Ʒ�������� qiezi
+  p1: keep=24 page_min=2026-01-18 page_max=2026-02-02
+  p1: reached older than start_date, stop.
+
+Done. inserted=0, skipped=327, total_seen(after_filter)=327
+================================================== 
+[周二 2026/02/03  5:47:36.34] START crawl_recent 
+[crawl_recent] db_max_date=2026-02-02 start_date=2026-01-22 end_date=2026-02-03 (days=7, overlap=7)
+
+==> 品种子域名 baicai
+  p1: keep=30 page_min=2026-01-28 page_max=2026-02-02
+  p2: keep=30 page_min=2026-01-23 page_max=2026-01-28
+  p3: keep=11 page_min=2026-01-18 page_max=2026-01-23
+  p3: reached older than start_date, stop.
+
+==> 品种子域名 qincai
+  p1: keep=30 page_min=2026-01-23 page_max=2026-02-02
+  p2: keep=5 page_min=2026-01-13 page_max=2026-01-23
+  p2: reached older than start_date, stop.
+
+==> 品种子域名 bocai
+  p1: keep=30 page_min=2026-01-23 page_max=2026-02-02
+  p2: keep=5 page_min=2026-01-13 page_max=2026-01-23
+  p2: reached older than start_date, stop.
+
+==> 品种子域名 woju
+  p1: keep=30 page_min=2026-01-29 page_max=2026-02-02
+  p2: keep=30 page_min=2026-01-25 page_max=2026-01-29
+  p3: keep=22 page_min=2026-01-20 page_max=2026-01-25
+  p3: reached older than start_date, stop.
+
+==> 品种子域名 hg
+  p1: keep=24 page_min=2026-01-18 page_max=2026-02-02
+  p1: reached older than start_date, stop.
+
+==> 品种子域名 tudou
+  p1: keep=21 page_min=2026-01-16 page_max=2026-02-02
+  p1: reached older than start_date, stop.
+
+==> 品种子域名 fanqie
+  p1: keep=30 page_min=2026-01-23 page_max=2026-02-02
+  p2: keep=5 page_min=2026-01-13 page_max=2026-01-23
+  p2: reached older than start_date, stop.
+
+==> 品种子域名 qiezi
+  p1: keep=24 page_min=2026-01-18 page_max=2026-02-02
+  p1: reached older than start_date, stop.
+
+Done. inserted=0, skipped=327, total_seen(after_filter)=327
+[周二 2026/02/03  5:48:07.43] END crawl_recent 
+================================================== 
+[周二 2026/02/03 11:30:00.99] START crawl_recent 
+[crawl_recent] db_max_date=2026-02-02 start_date=2026-01-22 end_date=2026-02-03 (days=7, overlap=7)
+
+==> 品种子域名 baicai
+  p1: keep=30 page_min=2026-01-28 page_max=2026-02-02
+  p2: keep=30 page_min=2026-01-23 page_max=2026-01-28
+  p3: keep=11 page_min=2026-01-18 page_max=2026-01-23
+  p3: reached older than start_date, stop.
+
+==> 品种子域名 qincai
+  p1: keep=30 page_min=2026-01-23 page_max=2026-02-02
+  p2: keep=5 page_min=2026-01-13 page_max=2026-01-23
+  p2: reached older than start_date, stop.
+
+==> 品种子域名 bocai
+  p1: keep=30 page_min=2026-01-23 page_max=2026-02-02
+  p2: keep=5 page_min=2026-01-13 page_max=2026-01-23
+  p2: reached older than start_date, stop.
+
+==> 品种子域名 woju
+  p1: keep=30 page_min=2026-01-29 page_max=2026-02-02
+  p2: keep=30 page_min=2026-01-25 page_max=2026-01-29
+  p3: keep=22 page_min=2026-01-20 page_max=2026-01-25
+  p3: reached older than start_date, stop.
+
+==> 品种子域名 hg
+  p1: keep=24 page_min=2026-01-18 page_max=2026-02-02
+  p1: reached older than start_date, stop.
+
+==> 品种子域名 tudou
+  p1: keep=21 page_min=2026-01-16 page_max=2026-02-02
+  p1: reached older than start_date, stop.
+
+==> 品种子域名 fanqie
+  p1: keep=30 page_min=2026-01-23 page_max=2026-02-02
+  p2: keep=5 page_min=2026-01-13 page_max=2026-01-23
+  p2: reached older than start_date, stop.
+
+==> 品种子域名 qiezi
+  p1: keep=24 page_min=2026-01-18 page_max=2026-02-02
+  p1: reached older than start_date, stop.
+
+Done. inserted=0, skipped=327, total_seen(after_filter)=327
+[周二 2026/02/03 11:30:31.38] END crawl_recent 
+================================================== 
+[周二 2026/02/03 16:00:38.96] START crawl_recent 
+[crawl_recent] db_max_date=2026-02-02 start_date=2026-01-22 end_date=2026-02-03 (days=7, overlap=7)
+
+==> 品种子域名 baicai
+  p1: empty/invalid, stop.
+
+==> 品种子域名 qincai
+  p1: empty/invalid, stop.
+
+==> 品种子域名 bocai
+  p1: empty/invalid, stop.
+
+==> 品种子域名 woju
+  p1: empty/invalid, stop.
+
+==> 品种子域名 hg
+  p1: empty/invalid, stop.
+
+==> 品种子域名 tudou
+  p1: empty/invalid, stop.
+
+==> 品种子域名 fanqie
+  p1: empty/invalid, stop.
+
+==> 品种子域名 qiezi
+  p1: empty/invalid, stop.
+
+Done. inserted=0, skipped=0, total_seen(after_filter)=0
+[周二 2026/02/03 16:01:29.97] END crawl_recent 
+================================================== 
+[周二 2026/02/03 20:00:46.00] START crawl_recent 
+[crawl_recent] db_max_date=2026-02-02 start_date=2026-01-22 end_date=2026-02-03 (days=7, overlap=7)
+
+==> 品种子域名 baicai
+  p1: keep=30 page_min=2026-01-30 page_max=2026-02-03
+  p2: keep=30 page_min=2026-01-24 page_max=2026-01-29
+  p3: keep=17 page_min=2026-01-19 page_max=2026-01-24
+  p3: reached older than start_date, stop.
+
+==> 品种子域名 qincai
+  p1: keep=30 page_min=2026-01-24 page_max=2026-02-03
+  p2: keep=8 page_min=2026-01-14 page_max=2026-01-24
+  p2: reached older than start_date, stop.
+
+==> 品种子域名 bocai
+  p1: keep=30 page_min=2026-01-24 page_max=2026-02-03
+  p2: keep=8 page_min=2026-01-14 page_max=2026-01-24
+  p2: reached older than start_date, stop.
+
+==> 品种子域名 woju
+  p1: keep=30 page_min=2026-01-30 page_max=2026-02-03
+  p2: keep=30 page_min=2026-01-26 page_max=2026-01-30
+  p3: keep=29 page_min=2026-01-21 page_max=2026-01-26
+  p3: reached older than start_date, stop.
+
+==> 品种子域名 hg
+  p1: keep=26 page_min=2026-01-20 page_max=2026-02-03
+  p1: reached older than start_date, stop.
+
+==> 品种子域名 tudou
+  p1: keep=23 page_min=2026-01-17 page_max=2026-02-03
+  p1: reached older than start_date, stop.
+
+==> 品种子域名 fanqie
+  p1: keep=30 page_min=2026-01-24 page_max=2026-02-03
+  p2: keep=8 page_min=2026-01-14 page_max=2026-01-24
+  p2: reached older than start_date, stop.
+
+==> 品种子域名 qiezi
+  p1: keep=26 page_min=2026-01-20 page_max=2026-02-03
+  p1: reached older than start_date, stop.
+
+Done. inserted=28, skipped=327, total_seen(after_filter)=355
+[周二 2026/02/03 20:01:31.35] END crawl_recent 
+================================================== 
+[周三 2026/02/04 11:30:01.99] START crawl_recent 
+[crawl_recent] db_max_date=2026-02-03 start_date=2026-01-23 end_date=2026-02-04 (days=7, overlap=7)
+
+==> 品种子域名 baicai
+  p1: keep=30 page_min=2026-01-30 page_max=2026-02-03
+  p2: keep=30 page_min=2026-01-24 page_max=2026-01-29
+  p3: keep=11 page_min=2026-01-19 page_max=2026-01-24
+  p3: reached older than start_date, stop.
+
+==> 品种子域名 qincai
+  p1: keep=30 page_min=2026-01-24 page_max=2026-02-03
+  p2: keep=5 page_min=2026-01-14 page_max=2026-01-24
+  p2: reached older than start_date, stop.
+
+==> 品种子域名 bocai
+  p1: keep=30 page_min=2026-01-24 page_max=2026-02-03
+  p2: keep=5 page_min=2026-01-14 page_max=2026-01-24
+  p2: reached older than start_date, stop.
+
+==> 品种子域名 woju
+  p1: keep=30 page_min=2026-01-30 page_max=2026-02-03
+  p2: keep=30 page_min=2026-01-26 page_max=2026-01-30
+  p3: keep=22 page_min=2026-01-21 page_max=2026-01-26
+  p3: reached older than start_date, stop.
+
+==> 品种子域名 hg
+  p1: keep=24 page_min=2026-01-20 page_max=2026-02-03
+  p1: reached older than start_date, stop.
+
+==> 品种子域名 tudou
+  p1: keep=21 page_min=2026-01-17 page_max=2026-02-03
+  p1: reached older than start_date, stop.
+
+==> 品种子域名 fanqie
+  p1: keep=30 page_min=2026-01-24 page_max=2026-02-03
+  p2: keep=5 page_min=2026-01-14 page_max=2026-01-24
+  p2: reached older than start_date, stop.
+
+==> 品种子域名 qiezi
+  p1: keep=24 page_min=2026-01-20 page_max=2026-02-03
+  p1: reached older than start_date, stop.
+
+Done. inserted=0, skipped=327, total_seen(after_filter)=327
+[周三 2026/02/04 11:30:34.52] END crawl_recent 
+================================================== 
+[周三 2026/02/04 20:00:47.07] START crawl_recent 
+[crawl_recent] db_max_date=2026-02-03 start_date=2026-01-23 end_date=2026-02-04 (days=7, overlap=7)
+
+==> 品种子域名 baicai
+  p1: keep=30 page_min=2026-01-31 page_max=2026-02-04
+  p2: empty/invalid, stop.
+
+==> 品种子域名 qincai
+  p1: keep=30 page_min=2026-01-25 page_max=2026-02-04
+  p2: keep=8 page_min=2026-01-15 page_max=2026-01-25
+  p2: reached older than start_date, stop.
+
+==> 品种子域名 bocai
+  p1: keep=30 page_min=2026-01-25 page_max=2026-02-04
+  p2: keep=8 page_min=2026-01-15 page_max=2026-01-25
+  p2: reached older than start_date, stop.
+
+==> 品种子域名 woju
+  p1: keep=30 page_min=2026-01-31 page_max=2026-02-04
+  p2: keep=30 page_min=2026-01-27 page_max=2026-01-31
+  p3: empty/invalid, stop.
+
+==> 品种子域名 hg
+  p1: keep=26 page_min=2026-01-21 page_max=2026-02-04
+  p1: reached older than start_date, stop.
+
+==> 品种子域名 tudou
+  p1: keep=23 page_min=2026-01-19 page_max=2026-02-04
+  p1: reached older than start_date, stop.
+
+==> 品种子域名 fanqie
+  p1: keep=30 page_min=2026-01-25 page_max=2026-02-04
+  p2: keep=8 page_min=2026-01-15 page_max=2026-01-25
+  p2: reached older than start_date, stop.
+
+==> 品种子域名 qiezi
+  p1: keep=26 page_min=2026-01-21 page_max=2026-02-04
+  p1: reached older than start_date, stop.
+
+Done. inserted=28, skipped=251, total_seen(after_filter)=279
+[周三 2026/02/04 20:01:30.65] END crawl_recent 
+================================================== 
+[周四 2026/02/05 11:30:02.03] START crawl_recent 
+[crawl_recent] db_max_date=2026-02-04 start_date=2026-01-24 end_date=2026-02-05 (days=7, overlap=7)
+
+==> 品种子域名 baicai
+  p1: keep=30 page_min=2026-01-31 page_max=2026-02-04
+  p2: keep=30 page_min=2026-01-25 page_max=2026-01-30
+  p3: keep=11 page_min=2026-01-20 page_max=2026-01-25
+  p3: reached older than start_date, stop.
+
+==> 品种子域名 qincai
+  p1: keep=30 page_min=2026-01-25 page_max=2026-02-04
+  p2: keep=5 page_min=2026-01-15 page_max=2026-01-25
+  p2: reached older than start_date, stop.
+
+==> 品种子域名 bocai
+  p1: keep=30 page_min=2026-01-25 page_max=2026-02-04
+  p2: keep=5 page_min=2026-01-15 page_max=2026-01-25
+  p2: reached older than start_date, stop.
+
+==> 品种子域名 woju
+  p1: keep=30 page_min=2026-01-31 page_max=2026-02-04
+  p2: keep=30 page_min=2026-01-27 page_max=2026-01-31
+  p3: keep=22 page_min=2026-01-22 page_max=2026-01-27
+  p3: reached older than start_date, stop.
+
+==> 品种子域名 hg
+  p1: keep=24 page_min=2026-01-21 page_max=2026-02-04
+  p1: reached older than start_date, stop.
+
+==> 品种子域名 tudou
+  p1: keep=21 page_min=2026-01-19 page_max=2026-02-04
+  p1: reached older than start_date, stop.
+
+==> 品种子域名 fanqie
+  p1: keep=30 page_min=2026-01-25 page_max=2026-02-04
+  p2: keep=5 page_min=2026-01-15 page_max=2026-01-25
+  p2: reached older than start_date, stop.
+
+==> 品种子域名 qiezi
+  p1: keep=24 page_min=2026-01-21 page_max=2026-02-04
+  p1: reached older than start_date, stop.
+
+Done. inserted=0, skipped=327, total_seen(after_filter)=327
+[周四 2026/02/05 11:30:20.84] END crawl_recent 
+================================================== 
+[周四 2026/02/05 20:00:47.02] START crawl_recent 
+[crawl_recent] db_max_date=2026-02-04 start_date=2026-01-24 end_date=2026-02-05 (days=7, overlap=7)
+
+==> 品种子域名 baicai
+  p1: keep=30 page_min=2026-02-01 page_max=2026-02-05
+  p2: keep=30 page_min=2026-01-26 page_max=2026-01-31
+  p3: keep=17 page_min=2026-01-21 page_max=2026-01-26
+  p3: reached older than start_date, stop.
+
+==> 品种子域名 qincai
+  p1: keep=30 page_min=2026-01-26 page_max=2026-02-05
+  p2: keep=8 page_min=2026-01-16 page_max=2026-01-26
+  p2: reached older than start_date, stop.
+
+==> 品种子域名 bocai
+  p1: keep=30 page_min=2026-01-26 page_max=2026-02-05
+  p2: keep=8 page_min=2026-01-16 page_max=2026-01-26
+  p2: reached older than start_date, stop.
+
+==> 品种子域名 woju
+  p1: keep=30 page_min=2026-02-01 page_max=2026-02-05
+  p2: keep=30 page_min=2026-01-28 page_max=2026-02-01
+  p3: keep=29 page_min=2026-01-23 page_max=2026-01-28
+  p3: reached older than start_date, stop.
+
+==> 品种子域名 hg
+  p1: keep=26 page_min=2026-01-22 page_max=2026-02-05
+  p1: reached older than start_date, stop.
+
+==> 品种子域名 tudou
+  p1: keep=23 page_min=2026-01-20 page_max=2026-02-05
+  p1: reached older than start_date, stop.
+
+==> 品种子域名 fanqie
+  p1: keep=30 page_min=2026-01-26 page_max=2026-02-05
+  p2: keep=8 page_min=2026-01-16 page_max=2026-01-26
+  p2: reached older than start_date, stop.
+
+==> 品种子域名 qiezi
+  p1: keep=26 page_min=2026-01-22 page_max=2026-02-05
+  p1: reached older than start_date, stop.
+
+Done. inserted=28, skipped=327, total_seen(after_filter)=355
+[周四 2026/02/05 20:01:09.92] END crawl_recent 
+================================================== 
+[周五 2026/02/06 11:30:01.96] START crawl_recent 
+[crawl_recent] db_max_date=2026-02-05 start_date=2026-01-25 end_date=2026-02-06 (days=7, overlap=7)
+
+==> 品种子域名 baicai
+  p1: keep=30 page_min=2026-02-01 page_max=2026-02-05
+  p2: keep=30 page_min=2026-01-26 page_max=2026-01-31
+  p3: keep=11 page_min=2026-01-21 page_max=2026-01-26
+  p3: reached older than start_date, stop.
+
+==> 品种子域名 qincai
+  p1: keep=30 page_min=2026-01-26 page_max=2026-02-05
+  p2: keep=5 page_min=2026-01-16 page_max=2026-01-26
+  p2: reached older than start_date, stop.
+
+==> 品种子域名 bocai
+  p1: keep=30 page_min=2026-01-26 page_max=2026-02-05
+  p2: keep=5 page_min=2026-01-16 page_max=2026-01-26
+  p2: reached older than start_date, stop.
+
+==> 品种子域名 woju
+  p1: keep=30 page_min=2026-02-01 page_max=2026-02-05
+  p2: keep=30 page_min=2026-01-28 page_max=2026-02-01
+  p3: keep=22 page_min=2026-01-23 page_max=2026-01-28
+  p3: reached older than start_date, stop.
+
+==> 品种子域名 hg
+  p1: keep=24 page_min=2026-01-22 page_max=2026-02-05
+  p1: reached older than start_date, stop.
+
+==> 品种子域名 tudou
+  p1: keep=22 page_min=2026-01-20 page_max=2026-02-05
+  p1: reached older than start_date, stop.
+
+==> 品种子域名 fanqie
+  p1: keep=30 page_min=2026-01-26 page_max=2026-02-05
+  p2: keep=5 page_min=2026-01-16 page_max=2026-01-26
+  p2: reached older than start_date, stop.
+
+==> 品种子域名 qiezi
+  p1: keep=24 page_min=2026-01-22 page_max=2026-02-05
+  p1: reached older than start_date, stop.
+
+Done. inserted=0, skipped=328, total_seen(after_filter)=328
+[周五 2026/02/06 11:30:21.48] END crawl_recent 
+================================================== 
+[周五 2026/02/06 20:00:47.01] START crawl_recent 
+[crawl_recent] db_max_date=2026-02-05 start_date=2026-01-25 end_date=2026-02-06 (days=7, overlap=7)
+
+==> 品种子域名 baicai
+  p1: keep=30 page_min=2026-02-01 page_max=2026-02-06
+Traceback (most recent call last):
+  File "D:\DevelopTools\Anaconda\envs\veg_env\Lib\site-packages\urllib3\connectionpool.py", line 534, in _make_request
+    response = conn.getresponse()
+               ^^^^^^^^^^^^^^^^^^
+  File "D:\DevelopTools\Anaconda\envs\veg_env\Lib\site-packages\urllib3\connection.py", line 571, in getresponse
+    httplib_response = super().getresponse()
+                       ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DevelopTools\Anaconda\envs\veg_env\Lib\http\client.py", line 1395, in getresponse
+    response.begin()
+  File "D:\DevelopTools\Anaconda\envs\veg_env\Lib\http\client.py", line 325, in begin
+    version, status, reason = self._read_status()
+                              ^^^^^^^^^^^^^^^^^^^
+  File "D:\DevelopTools\Anaconda\envs\veg_env\Lib\http\client.py", line 286, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DevelopTools\Anaconda\envs\veg_env\Lib\socket.py", line 718, in readinto
+    return self._sock.recv_into(b)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+TimeoutError: timed out
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\DevelopTools\Anaconda\envs\veg_env\Lib\site-packages\requests\adapters.py", line 644, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "D:\DevelopTools\Anaconda\envs\veg_env\Lib\site-packages\urllib3\connectionpool.py", line 841, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "D:\DevelopTools\Anaconda\envs\veg_env\Lib\site-packages\urllib3\util\retry.py", line 490, in increment
+    raise reraise(type(error), error, _stacktrace)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DevelopTools\Anaconda\envs\veg_env\Lib\site-packages\urllib3\util\util.py", line 39, in reraise
+    raise value
+  File "D:\DevelopTools\Anaconda\envs\veg_env\Lib\site-packages\urllib3\connectionpool.py", line 787, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "D:\DevelopTools\Anaconda\envs\veg_env\Lib\site-packages\urllib3\connectionpool.py", line 536, in _make_request
+    self._raise_timeout(err=e, url=url, timeout_value=read_timeout)
+  File "D:\DevelopTools\Anaconda\envs\veg_env\Lib\site-packages\urllib3\connectionpool.py", line 367, in _raise_timeout
+    raise ReadTimeoutError(
+urllib3.exceptions.ReadTimeoutError: HTTPConnectionPool(host='127.0.0.1', port=7897): Read timed out. (read timeout=15)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Veg\manage.py", line 17, in <module>
+    main()
+  File "D:\Veg\manage.py", line 14, in main
+    execute_from_command_line(sys.argv)
+  File "D:\DevelopTools\Anaconda\envs\veg_env\Lib\site-packages\django\core\management\__init__.py", line 442, in execute_from_command_line
+    utility.execute()
+  File "D:\DevelopTools\Anaconda\envs\veg_env\Lib\site-packages\django\core\management\__init__.py", line 436, in execute
+    self.fetch_command(subcommand).run_from_argv(self.argv)
+  File "D:\DevelopTools\Anaconda\envs\veg_env\Lib\site-packages\django\core\management\base.py", line 416, in run_from_argv
+    self.execute(*args, **cmd_options)
+  File "D:\DevelopTools\Anaconda\envs\veg_env\Lib\site-packages\django\core\management\base.py", line 460, in execute
+    output = self.handle(*args, **options)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Veg\api\management\commands\crawl_recent.py", line 183, in handle
+    raw_df = fetch_page_df(v_type, page, session, debug=debug)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Veg\api\management\commands\crawl_recent.py", line 78, in fetch_page_df
+    resp = session.get(url, headers=HEADERS, timeout=15)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DevelopTools\Anaconda\envs\veg_env\Lib\site-packages\requests\sessions.py", line 602, in get
+    return self.request("GET", url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DevelopTools\Anaconda\envs\veg_env\Lib\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DevelopTools\Anaconda\envs\veg_env\Lib\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DevelopTools\Anaconda\envs\veg_env\Lib\site-packages\requests\adapters.py", line 690, in send
+    raise ReadTimeout(e, request=request)
+requests.exceptions.ReadTimeout: HTTPConnectionPool(host='127.0.0.1', port=7897): Read timed out. (read timeout=15)
+[周五 2026/02/06 20:01:08.19] END crawl_recent 
+================================================== 
+[周六 2026/02/07 11:30:02.05] START crawl_recent 
+[crawl_recent] db_max_date=2026-02-05 start_date=2026-01-26 end_date=2026-02-07 (days=7, overlap=7)
+
+==> 品种子域名 baicai
+  p1: keep=30 page_min=2026-02-01 page_max=2026-02-06
+  p2: keep=30 page_min=2026-01-27 page_max=2026-02-01
+  p3: keep=8 page_min=2026-01-22 page_max=2026-01-27
+  p3: reached older than start_date, stop.
+
+==> 品种子域名 qincai
+  p1: keep=30 page_min=2026-01-27 page_max=2026-02-06
+  p2: keep=4 page_min=2026-01-17 page_max=2026-01-27
+  p2: reached older than start_date, stop.
+
+==> 品种子域名 bocai
+  p1: keep=30 page_min=2026-01-27 page_max=2026-02-06
+  p2: keep=4 page_min=2026-01-17 page_max=2026-01-27
+  p2: reached older than start_date, stop.
+
+==> 品种子域名 woju
+  p1: keep=30 page_min=2026-02-02 page_max=2026-02-06
+  p2: keep=30 page_min=2026-01-28 page_max=2026-02-02
+  p3: keep=19 page_min=2026-01-24 page_max=2026-01-28
+  p3: reached older than start_date, stop.
+
+==> 品种子域名 hg
+  p1: keep=23 page_min=2026-01-22 page_max=2026-02-06
+  p1: reached older than start_date, stop.
+
+==> 品种子域名 tudou
+  p1: keep=21 page_min=2026-01-20 page_max=2026-02-05
+  p1: reached older than start_date, stop.
+
+==> 品种子域名 fanqie
+  p1: keep=30 page_min=2026-01-27 page_max=2026-02-06
+  p2: keep=4 page_min=2026-01-17 page_max=2026-01-27
+  p2: reached older than start_date, stop.
+
+==> 品种子域名 qiezi
+  p1: keep=23 page_min=2026-01-22 page_max=2026-02-06
+  p1: reached older than start_date, stop.
+
+Done. inserted=15, skipped=301, total_seen(after_filter)=316
+[周六 2026/02/07 11:30:48.08] END crawl_recent 
+================================================== 
+[周六 2026/02/07 20:00:46.97] START crawl_recent 
+[crawl_recent] db_max_date=2026-02-06 start_date=2026-01-26 end_date=2026-02-07 (days=7, overlap=7)
+
+==> 品种子域名 baicai
+  p1: keep=30 page_min=2026-02-02 page_max=2026-02-07
+  p2: keep=30 page_min=2026-01-28 page_max=2026-02-02
+  p3: keep=14 page_min=2026-01-23 page_max=2026-01-28
+  p3: reached older than start_date, stop.
+
+==> 品种子域名 qincai
+  p1: keep=30 page_min=2026-01-28 page_max=2026-02-07
+  p2: keep=6 page_min=2026-01-17 page_max=2026-01-27
+  p2: reached older than start_date, stop.
+
+==> 品种子域名 bocai
+  p1: keep=30 page_min=2026-01-28 page_max=2026-02-07
+  p2: empty/invalid, stop.
+
+==> 品种子域名 woju
+  p1: keep=30 page_min=2026-02-03 page_max=2026-02-07
+  p2: keep=30 page_min=2026-01-30 page_max=2026-02-03
+  p3: keep=26 page_min=2026-01-25 page_max=2026-01-29
+  p3: reached older than start_date, stop.
+
+==> 品种子域名 hg
+  p1: keep=25 page_min=2026-01-23 page_max=2026-02-07
+  p1: reached older than start_date, stop.
+
+==> 品种子域名 tudou
+  p1: keep=23 page_min=2026-01-21 page_max=2026-02-07
+  p1: reached older than start_date, stop.
+
+==> 品种子域名 fanqie
+  p1: keep=30 page_min=2026-01-28 page_max=2026-02-07
+  p2: keep=7 page_min=2026-01-18 page_max=2026-01-28
+  p2: reached older than start_date, stop.
+
+==> 品种子域名 qiezi
+  p1: keep=25 page_min=2026-01-23 page_max=2026-02-07
+  p1: reached older than start_date, stop.
+
+Done. inserted=27, skipped=309, total_seen(after_filter)=336
+[周六 2026/02/07 20:01:33.86] END crawl_recent 
+================================================== 
+[周日 2026/02/08 11:30:02.03] START crawl_recent 
+[crawl_recent] db_max_date=2026-02-07 start_date=2026-01-27 end_date=2026-02-08 (days=7, overlap=7)
+
+==> 品种子域名 baicai
+  p1: keep=30 page_min=2026-02-02 page_max=2026-02-07
+  p2: keep=30 page_min=2026-01-28 page_max=2026-02-02
+  p3: keep=8 page_min=2026-01-23 page_max=2026-01-28
+  p3: reached older than start_date, stop.
+
+==> 品种子域名 qincai
+  p1: keep=30 page_min=2026-01-28 page_max=2026-02-07
+  p2: keep=3 page_min=2026-01-17 page_max=2026-01-27
+  p2: reached older than start_date, stop.
+
+==> 品种子域名 bocai
+  p1: keep=30 page_min=2026-01-28 page_max=2026-02-07
+  p2: keep=4 page_min=2026-01-18 page_max=2026-01-28
+  p2: reached older than start_date, stop.
+
+==> 品种子域名 woju
+  p1: keep=30 page_min=2026-02-03 page_max=2026-02-07
+  p2: keep=30 page_min=2026-01-30 page_max=2026-02-03
+  p3: keep=19 page_min=2026-01-25 page_max=2026-01-29
+  p3: reached older than start_date, stop.
+
+==> 品种子域名 hg
+  p1: keep=23 page_min=2026-01-23 page_max=2026-02-07
+  p1: reached older than start_date, stop.
+
+==> 品种子域名 tudou
+  p1: keep=21 page_min=2026-01-21 page_max=2026-02-07
+  p1: reached older than start_date, stop.
+
+==> 品种子域名 fanqie
+  p1: keep=30 page_min=2026-01-28 page_max=2026-02-07
+  p2: keep=4 page_min=2026-01-18 page_max=2026-01-28
+  p2: reached older than start_date, stop.
+
+==> 品种子域名 qiezi
+  p1: keep=23 page_min=2026-01-23 page_max=2026-02-07
+  p1: reached older than start_date, stop.
+
+Done. inserted=0, skipped=315, total_seen(after_filter)=315
+[周日 2026/02/08 11:30:35.83] END crawl_recent 
+================================================== 
+[周一 2026/02/09 11:30:01.79] START crawl_recent 
+[crawl_recent] db_max_date=2026-02-07 start_date=2026-01-28 end_date=2026-02-09 (days=7, overlap=7)
+
+==> 品种子域名 baicai
+  p1: keep=30 page_min=2026-02-03 page_max=2026-02-08
+  p2: keep=30 page_min=2026-01-29 page_max=2026-02-03
+  p3: keep=8 page_min=2026-01-24 page_max=2026-01-29
+  p3: reached older than start_date, stop.
+
+==> 品种子域名 qincai
+  p1: keep=30 page_min=2026-01-29 page_max=2026-02-08
+  p2: keep=3 page_min=2026-01-18 page_max=2026-01-28
+  p2: reached older than start_date, stop.
+
+==> 品种子域名 bocai
+  p1: keep=30 page_min=2026-01-29 page_max=2026-02-08
+  p2: keep=4 page_min=2026-01-19 page_max=2026-01-29
+  p2: reached older than start_date, stop.
+
+==> 品种子域名 woju
+  p1: keep=30 page_min=2026-02-04 page_max=2026-02-08
+  p2: keep=30 page_min=2026-01-31 page_max=2026-02-04
+  p3: keep=19 page_min=2026-01-26 page_max=2026-01-30
+  p3: reached older than start_date, stop.
+
+==> 品种子域名 hg
+  p1: keep=23 page_min=2026-01-24 page_max=2026-02-08
+  p1: reached older than start_date, stop.
+
+==> 品种子域名 tudou
+  p1: keep=21 page_min=2026-01-22 page_max=2026-02-08
+  p1: reached older than start_date, stop.
+
+==> 品种子域名 fanqie
+  p1: keep=30 page_min=2026-01-29 page_max=2026-02-08
+  p2: keep=4 page_min=2026-01-19 page_max=2026-01-29
+  p2: reached older than start_date, stop.
+
+==> 品种子域名 qiezi
+  p1: keep=23 page_min=2026-01-24 page_max=2026-02-08
+  p1: reached older than start_date, stop.
+
+Done. inserted=28, skipped=287, total_seen(after_filter)=315
+[周一 2026/02/09 11:30:26.54] END crawl_recent 
+================================================== 
+[周一 2026/02/09 20:00:46.74] START crawl_recent 
+[crawl_recent] db_max_date=2026-02-08 start_date=2026-01-28 end_date=2026-02-09 (days=7, overlap=7)
+
+==> 品种子域名 baicai
+  p1: keep=30 page_min=2026-02-04 page_max=2026-02-09
+  p2: keep=30 page_min=2026-01-30 page_max=2026-02-04
+  p3: keep=14 page_min=2026-01-25 page_max=2026-01-30
+  p3: reached older than start_date, stop.
+
+==> 品种子域名 qincai
+  p1: keep=30 page_min=2026-01-30 page_max=2026-02-09
+  p2: keep=6 page_min=2026-01-20 page_max=2026-01-30
+  p2: reached older than start_date, stop.
+
+==> 品种子域名 bocai
+  p1: keep=30 page_min=2026-01-30 page_max=2026-02-09
+  p2: keep=7 page_min=2026-01-20 page_max=2026-01-30
+  p2: reached older than start_date, stop.
+
+==> 品种子域名 woju
+  p1: keep=30 page_min=2026-02-05 page_max=2026-02-09
+  p2: keep=30 page_min=2026-02-01 page_max=2026-02-05
+  p3: keep=26 page_min=2026-01-27 page_max=2026-01-31
+  p3: reached older than start_date, stop.
+
+==> 品种子域名 hg
+  p1: keep=25 page_min=2026-01-25 page_max=2026-02-09
+  p1: reached older than start_date, stop.
+
+==> 品种子域名 tudou
+  p1: keep=23 page_min=2026-01-23 page_max=2026-02-09
+  p1: reached older than start_date, stop.
+
+==> 品种子域名 fanqie
+  p1: keep=30 page_min=2026-01-30 page_max=2026-02-09
+  p2: keep=7 page_min=2026-01-20 page_max=2026-01-30
+  p2: reached older than start_date, stop.
+
+==> 品种子域名 qiezi
+  p1: keep=25 page_min=2026-01-25 page_max=2026-02-09
+  p1: reached older than start_date, stop.
+
+Done. inserted=28, skipped=315, total_seen(after_filter)=343
+[周一 2026/02/09 20:01:15.63] END crawl_recent 
+================================================== 
+[周二 2026/02/10 11:30:01.61] START crawl_recent 
+[crawl_recent] db_max_date=2026-02-09 start_date=2026-01-29 end_date=2026-02-10 (days=7, overlap=7)
+
+==> 品种子域名 baicai
+  p1: keep=30 page_min=2026-02-04 page_max=2026-02-09
+  p2: keep=30 page_min=2026-01-30 page_max=2026-02-04
+  p3: keep=8 page_min=2026-01-25 page_max=2026-01-30
+  p3: reached older than start_date, stop.
+
+==> 品种子域名 qincai
+  p1: keep=30 page_min=2026-01-30 page_max=2026-02-09
+  p2: keep=3 page_min=2026-01-20 page_max=2026-01-30
+  p2: reached older than start_date, stop.
+
+==> 品种子域名 bocai
+  p1: keep=30 page_min=2026-01-30 page_max=2026-02-09
+  p2: keep=4 page_min=2026-01-20 page_max=2026-01-30
+  p2: reached older than start_date, stop.
+
+==> 品种子域名 woju
+  p1: keep=30 page_min=2026-02-05 page_max=2026-02-09
+  p2: keep=30 page_min=2026-02-01 page_max=2026-02-05
+  p3: keep=19 page_min=2026-01-27 page_max=2026-01-31
+  p3: reached older than start_date, stop.
+
+==> 品种子域名 hg
+  p1: keep=23 page_min=2026-01-25 page_max=2026-02-09
+  p1: reached older than start_date, stop.
+
+==> 品种子域名 tudou
+  p1: keep=22 page_min=2026-01-23 page_max=2026-02-09
+  p1: reached older than start_date, stop.
+
+==> 品种子域名 fanqie
+  p1: keep=30 page_min=2026-01-30 page_max=2026-02-09
+  p2: keep=4 page_min=2026-01-20 page_max=2026-01-30
+  p2: reached older than start_date, stop.
+
+==> 品种子域名 qiezi
+  p1: keep=23 page_min=2026-01-25 page_max=2026-02-09
+  p1: reached older than start_date, stop.
+
+Done. inserted=0, skipped=316, total_seen(after_filter)=316
+[周二 2026/02/10 11:30:22.97] END crawl_recent 
+================================================== 
+[周二 2026/02/10 20:00:46.69] START crawl_recent 
+[crawl_recent] db_max_date=2026-02-09 start_date=2026-01-29 end_date=2026-02-10 (days=7, overlap=7)
+
+==> 品种子域名 baicai
+  p1: keep=30 page_min=2026-02-05 page_max=2026-02-10
+  p2: keep=30 page_min=2026-01-31 page_max=2026-02-05
+  p3: keep=14 page_min=2026-01-26 page_max=2026-01-31
+  p3: reached older than start_date, stop.
+
+==> 品种子域名 qincai
+  p1: keep=30 page_min=2026-01-31 page_max=2026-02-10
+  p2: keep=6 page_min=2026-01-21 page_max=2026-01-31
+  p2: reached older than start_date, stop.
+
+==> 品种子域名 bocai
+  p1: keep=30 page_min=2026-01-31 page_max=2026-02-10
+  p2: keep=7 page_min=2026-01-21 page_max=2026-01-31
+  p2: reached older than start_date, stop.
+
+==> 品种子域名 woju
+  p1: keep=30 page_min=2026-02-06 page_max=2026-02-10
+  p2: keep=30 page_min=2026-02-02 page_max=2026-02-06
+  p3: keep=26 page_min=2026-01-28 page_max=2026-02-01
+  p3: reached older than start_date, stop.
+
+==> 品种子域名 hg
+  p1: keep=25 page_min=2026-01-26 page_max=2026-02-10
+  p1: reached older than start_date, stop.
+
+==> 品种子域名 tudou
+  p1: keep=24 page_min=2026-01-25 page_max=2026-02-10
+  p1: reached older than start_date, stop.
+
+==> 品种子域名 fanqie
+  p1: keep=30 page_min=2026-01-31 page_max=2026-02-10
+  p2: keep=7 page_min=2026-01-21 page_max=2026-01-31
+  p2: reached older than start_date, stop.
+
+==> 品种子域名 qiezi
+  p1: keep=25 page_min=2026-01-26 page_max=2026-02-10
+  p1: reached older than start_date, stop.
+
+Done. inserted=28, skipped=316, total_seen(after_filter)=344
+[周二 2026/02/10 20:01:11.65] END crawl_recent 
+================================================== 
+[周三 2026/02/11 11:30:01.68] START crawl_recent 
+[crawl_recent] db_max_date=2026-02-10 start_date=2026-01-30 end_date=2026-02-11 (days=7, overlap=7)
+
+==> 品种子域名 baicai
+  p1: keep=30 page_min=2026-02-05 page_max=2026-02-10
+  p2: keep=30 page_min=2026-01-31 page_max=2026-02-05
+  p3: keep=9 page_min=2026-01-26 page_max=2026-01-31
+  p3: reached older than start_date, stop.
+
+==> 品种子域名 qincai
+  p1: keep=30 page_min=2026-01-31 page_max=2026-02-10
+  p2: keep=4 page_min=2026-01-21 page_max=2026-01-31
+  p2: reached older than start_date, stop.
+
+==> 品种子域名 bocai
+  p1: keep=30 page_min=2026-01-31 page_max=2026-02-10
+  p2: keep=5 page_min=2026-01-21 page_max=2026-01-31
+  p2: reached older than start_date, stop.
+
+==> 品种子域名 woju
+  p1: keep=30 page_min=2026-02-06 page_max=2026-02-10
+  p2: keep=30 page_min=2026-02-02 page_max=2026-02-06
+  p3: keep=21 page_min=2026-01-28 page_max=2026-02-01
+  p3: reached older than start_date, stop.
+
+==> 品种子域名 hg
+  p1: keep=23 page_min=2026-01-26 page_max=2026-02-10
+  p1: reached older than start_date, stop.
+
+==> 品种子域名 tudou
+  p1: keep=22 page_min=2026-01-25 page_max=2026-02-10
+  p1: reached older than start_date, stop.
+
+==> 品种子域名 fanqie
+  p1: keep=30 page_min=2026-01-31 page_max=2026-02-10
+  p2: keep=5 page_min=2026-01-21 page_max=2026-01-31
+  p2: reached older than start_date, stop.
+
+==> 品种子域名 qiezi
+  p1: keep=23 page_min=2026-01-26 page_max=2026-02-10
+  p1: reached older than start_date, stop.
+
+Done. inserted=0, skipped=322, total_seen(after_filter)=322
+[周三 2026/02/11 11:30:29.99] END crawl_recent 
+================================================== 
+[周三 2026/02/11 20:00:46.49] START crawl_recent 
+[crawl_recent] db_max_date=2026-02-10 start_date=2026-01-30 end_date=2026-02-11 (days=7, overlap=7)
+
+==> 品种子域名 baicai
+  p1: keep=30 page_min=2026-02-07 page_max=2026-02-11
+  p2: keep=30 page_min=2026-02-01 page_max=2026-02-06
+  p3: keep=15 page_min=2026-01-27 page_max=2026-02-01
+  p3: reached older than start_date, stop.
+
+==> 品种子域名 qincai
+  p1: keep=30 page_min=2026-02-01 page_max=2026-02-11
+  p2: keep=7 page_min=2026-01-22 page_max=2026-02-01
+  p2: reached older than start_date, stop.
+
+==> 品种子域名 bocai
+  p1: keep=30 page_min=2026-02-01 page_max=2026-02-11
+  p2: keep=8 page_min=2026-01-22 page_max=2026-02-01
+  p2: reached older than start_date, stop.
+
+==> 品种子域名 woju
+  p1: keep=30 page_min=2026-02-07 page_max=2026-02-11
+  p2: keep=30 page_min=2026-02-03 page_max=2026-02-07
+  p3: keep=28 page_min=2026-01-29 page_max=2026-02-02
+  p3: reached older than start_date, stop.
+
+==> 品种子域名 hg
+  p1: keep=25 page_min=2026-01-27 page_max=2026-02-11
+  p1: reached older than start_date, stop.
+
+==> 品种子域名 tudou
+  p1: keep=24 page_min=2026-01-26 page_max=2026-02-11
+  p1: reached older than start_date, stop.
+
+==> 品种子域名 fanqie
+  p1: keep=30 page_min=2026-02-01 page_max=2026-02-11
+  p2: keep=8 page_min=2026-01-22 page_max=2026-02-01
+  p2: reached older than start_date, stop.
+
+==> 品种子域名 qiezi
+  p1: keep=25 page_min=2026-01-27 page_max=2026-02-11
+  p1: reached older than start_date, stop.
+
+Done. inserted=28, skipped=322, total_seen(after_filter)=350
+[周三 2026/02/11 20:01:07.13] END crawl_recent 
+================================================== 
+[周五 2026/02/13 11:30:01.65] START crawl_recent 
+[crawl_recent] db_max_date=2026-02-11 start_date=2026-02-01 end_date=2026-02-13 (days=7, overlap=7)
+
+==> 品种子域名 baicai
+  p1: keep=30 page_min=2026-02-08 page_max=2026-02-12
+  p2: keep=30 page_min=2026-02-02 page_max=2026-02-07
+  p3: keep=9 page_min=2026-01-28 page_max=2026-02-02
+  p3: reached older than start_date, stop.
+
+==> 品种子域名 qincai
+  p1: keep=30 page_min=2026-02-02 page_max=2026-02-12
+  p2: keep=4 page_min=2026-01-23 page_max=2026-02-02
+  p2: reached older than start_date, stop.
+
+==> 品种子域名 bocai
+  p1: keep=30 page_min=2026-02-02 page_max=2026-02-12
+  p2: keep=5 page_min=2026-01-23 page_max=2026-02-02
+  p2: reached older than start_date, stop.
+
+==> 品种子域名 woju
+  p1: keep=30 page_min=2026-02-08 page_max=2026-02-12
+  p2: keep=30 page_min=2026-02-04 page_max=2026-02-08
+  p3: keep=21 page_min=2026-01-30 page_max=2026-02-03
+  p3: reached older than start_date, stop.
+
+==> 品种子域名 hg
+  p1: keep=23 page_min=2026-01-28 page_max=2026-02-12
+  p1: reached older than start_date, stop.
+
+==> 品种子域名 tudou
+  p1: keep=21 page_min=2026-01-27 page_max=2026-02-12
+  p1: reached older than start_date, stop.
+
+==> 品种子域名 fanqie
+  p1: keep=30 page_min=2026-02-02 page_max=2026-02-12
+  p2: keep=5 page_min=2026-01-23 page_max=2026-02-02
+  p2: reached older than start_date, stop.
+
+==> 品种子域名 qiezi
+  p1: keep=23 page_min=2026-01-28 page_max=2026-02-12
+  p1: reached older than start_date, stop.
+
+Done. inserted=27, skipped=294, total_seen(after_filter)=321
+[周五 2026/02/13 11:30:38.48] END crawl_recent 
+================================================== 
+[周五 2026/02/13 20:00:46.67] START crawl_recent 
+[crawl_recent] db_max_date=2026-02-12 start_date=2026-02-01 end_date=2026-02-13 (days=7, overlap=7)
+
+==> 品种子域名 baicai
+  p1: keep=30 page_min=2026-02-09 page_max=2026-02-13
+  p2: keep=30 page_min=2026-02-03 page_max=2026-02-08
+  p3: keep=15 page_min=2026-01-29 page_max=2026-02-03
+  p3: reached older than start_date, stop.
+
+==> 品种子域名 qincai
+  p1: keep=30 page_min=2026-02-03 page_max=2026-02-13
+  p2: keep=7 page_min=2026-01-24 page_max=2026-02-03
+  p2: reached older than start_date, stop.
+
+==> 品种子域名 bocai
+  p1: keep=30 page_min=2026-02-03 page_max=2026-02-13
+  p2: keep=8 page_min=2026-01-24 page_max=2026-02-03
+  p2: reached older than start_date, stop.
+
+==> 品种子域名 woju
+  p1: keep=30 page_min=2026-02-09 page_max=2026-02-13
+  p2: keep=30 page_min=2026-02-05 page_max=2026-02-09
+  p3: keep=28 page_min=2026-01-31 page_max=2026-02-04
+  p3: reached older than start_date, stop.
+
+==> 品种子域名 hg
+  p1: keep=25 page_min=2026-01-29 page_max=2026-02-13
+  p1: reached older than start_date, stop.
+
+==> 品种子域名 tudou
+  p1: keep=23 page_min=2026-01-28 page_max=2026-02-13
+  p1: reached older than start_date, stop.
+
+==> 品种子域名 fanqie
+  p1: keep=30 page_min=2026-02-03 page_max=2026-02-13
+  p2: keep=8 page_min=2026-01-24 page_max=2026-02-03
+  p2: reached older than start_date, stop.
+
+==> 品种子域名 qiezi
+  p1: keep=25 page_min=2026-01-29 page_max=2026-02-13
+  p1: reached older than start_date, stop.
+
+Done. inserted=28, skipped=321, total_seen(after_filter)=349
+[周五 2026/02/13 20:01:06.55] END crawl_recent 
+================================================== 
+[周六 2026/02/14 11:30:01.77] START crawl_recent 
+[crawl_recent] db_max_date=2026-02-13 start_date=2026-02-02 end_date=2026-02-14 (days=7, overlap=7)
+
+==> 品种子域名 baicai
+  p1: keep=30 page_min=2026-02-09 page_max=2026-02-13
+  p2: keep=30 page_min=2026-02-03 page_max=2026-02-08
+  p3: keep=9 page_min=2026-01-29 page_max=2026-02-03
+  p3: reached older than start_date, stop.
+
+==> 品种子域名 qincai
+  p1: keep=30 page_min=2026-02-03 page_max=2026-02-13
+  p2: keep=4 page_min=2026-01-24 page_max=2026-02-03
+  p2: reached older than start_date, stop.
+
+==> 品种子域名 bocai
+  p1: keep=30 page_min=2026-02-03 page_max=2026-02-13
+  p2: keep=5 page_min=2026-01-24 page_max=2026-02-03
+  p2: reached older than start_date, stop.
+
+==> 品种子域名 woju
+  p1: keep=30 page_min=2026-02-09 page_max=2026-02-13
+  p2: keep=30 page_min=2026-02-05 page_max=2026-02-09
+  p3: keep=21 page_min=2026-01-31 page_max=2026-02-04
+  p3: reached older than start_date, stop.
+
+==> 品种子域名 hg
+  p1: keep=23 page_min=2026-01-29 page_max=2026-02-13
+  p1: reached older than start_date, stop.
+
+==> 品种子域名 tudou
+  p1: keep=21 page_min=2026-01-28 page_max=2026-02-13
+  p1: reached older than start_date, stop.
+
+==> 品种子域名 fanqie
+  p1: keep=30 page_min=2026-02-03 page_max=2026-02-13
+  p2: keep=5 page_min=2026-01-24 page_max=2026-02-03
+  p2: reached older than start_date, stop.
+
+==> 品种子域名 qiezi
+  p1: keep=23 page_min=2026-01-29 page_max=2026-02-13
+  p1: reached older than start_date, stop.
+
+Done. inserted=0, skipped=321, total_seen(after_filter)=321
+[周六 2026/02/14 11:30:21.62] END crawl_recent 
+================================================== 
+[周六 2026/02/14 20:00:46.76] START crawl_recent 
+[crawl_recent] db_max_date=2026-02-13 start_date=2026-02-02 end_date=2026-02-14 (days=7, overlap=7)
+
+==> 品种子域名 baicai
+  p1: keep=30 page_min=2026-02-10 page_max=2026-02-14
+  p2: keep=30 page_min=2026-02-04 page_max=2026-02-09
+  p3: keep=15 page_min=2026-01-30 page_max=2026-02-04
+  p3: reached older than start_date, stop.
+
+==> 品种子域名 qincai
+  p1: keep=30 page_min=2026-02-04 page_max=2026-02-14
+  p2: keep=7 page_min=2026-01-25 page_max=2026-02-04
+  p2: reached older than start_date, stop.
+
+==> 品种子域名 bocai
+  p1: keep=30 page_min=2026-02-04 page_max=2026-02-14
+  p2: keep=8 page_min=2026-01-25 page_max=2026-02-04
+  p2: reached older than start_date, stop.
+
+==> 品种子域名 woju
+  p1: keep=30 page_min=2026-02-10 page_max=2026-02-14
+  p2: keep=30 page_min=2026-02-06 page_max=2026-02-10
+  p3: keep=28 page_min=2026-02-01 page_max=2026-02-05
+  p3: reached older than start_date, stop.
+
+==> 品种子域名 hg
+  p1: keep=25 page_min=2026-01-30 page_max=2026-02-14
+  p1: reached older than start_date, stop.
+
+==> 品种子域名 tudou
+  p1: keep=23 page_min=2026-01-29 page_max=2026-02-14
+  p1: reached older than start_date, stop.
+
+==> 品种子域名 fanqie
+  p1: keep=30 page_min=2026-02-04 page_max=2026-02-14
+  p2: keep=8 page_min=2026-01-25 page_max=2026-02-04
+  p2: reached older than start_date, stop.
+
+==> 品种子域名 qiezi
+  p1: keep=25 page_min=2026-01-30 page_max=2026-02-14
+  p1: reached older than start_date, stop.
+
+Done. inserted=28, skipped=321, total_seen(after_filter)=349
+[周六 2026/02/14 20:01:05.52] END crawl_recent 
+================================================== 
+[周日 2026/02/15 11:30:01.71] START crawl_recent 
+[crawl_recent] db_max_date=2026-02-14 start_date=2026-02-03 end_date=2026-02-15 (days=7, overlap=7)
+
+==> 品种子域名 baicai
+  p1: keep=30 page_min=2026-02-10 page_max=2026-02-14
+  p2: keep=30 page_min=2026-02-04 page_max=2026-02-09
+  p3: keep=9 page_min=2026-01-30 page_max=2026-02-04
+  p3: reached older than start_date, stop.
+
+==> 品种子域名 qincai
+  p1: keep=30 page_min=2026-02-04 page_max=2026-02-14
+  p2: keep=4 page_min=2026-01-25 page_max=2026-02-04
+  p2: reached older than start_date, stop.
+
+==> 品种子域名 bocai
+  p1: keep=30 page_min=2026-02-04 page_max=2026-02-14
+  p2: keep=5 page_min=2026-01-25 page_max=2026-02-04
+  p2: reached older than start_date, stop.
+
+==> 品种子域名 woju
+  p1: keep=30 page_min=2026-02-10 page_max=2026-02-14
+  p2: keep=30 page_min=2026-02-06 page_max=2026-02-10
+  p3: keep=21 page_min=2026-02-01 page_max=2026-02-05
+  p3: reached older than start_date, stop.
+
+==> 品种子域名 hg
+  p1: keep=23 page_min=2026-01-30 page_max=2026-02-14
+  p1: reached older than start_date, stop.
+
+==> 品种子域名 tudou
+  p1: keep=21 page_min=2026-01-29 page_max=2026-02-14
+  p1: reached older than start_date, stop.
+
+==> 品种子域名 fanqie
+  p1: keep=30 page_min=2026-02-04 page_max=2026-02-14
+  p2: keep=5 page_min=2026-01-25 page_max=2026-02-04
+  p2: reached older than start_date, stop.
+
+==> 品种子域名 qiezi
+  p1: keep=23 page_min=2026-01-30 page_max=2026-02-14
+  p1: reached older than start_date, stop.
+
+Done. inserted=0, skipped=321, total_seen(after_filter)=321
+[周日 2026/02/15 11:30:20.72] END crawl_recent 
+================================================== 
+[周日 2026/02/15 20:00:46.81] START crawl_recent 
+[crawl_recent] db_max_date=2026-02-14 start_date=2026-02-03 end_date=2026-02-15 (days=7, overlap=7)
+
+==> 品种子域名 baicai
+  p1: keep=30 page_min=2026-02-11 page_max=2026-02-15
+  p2: keep=30 page_min=2026-02-05 page_max=2026-02-10
+  p3: keep=15 page_min=2026-01-31 page_max=2026-02-05
+  p3: reached older than start_date, stop.
+
+==> 品种子域名 qincai
+  p1: keep=30 page_min=2026-02-05 page_max=2026-02-15
+  p2: keep=7 page_min=2026-01-26 page_max=2026-02-05
+  p2: reached older than start_date, stop.
+
+==> 品种子域名 bocai
+  p1: keep=30 page_min=2026-02-05 page_max=2026-02-15
+  p2: keep=8 page_min=2026-01-26 page_max=2026-02-05
+  p2: reached older than start_date, stop.
+
+==> 品种子域名 woju
+  p1: keep=30 page_min=2026-02-11 page_max=2026-02-15
+  p2: keep=30 page_min=2026-02-07 page_max=2026-02-11
+  p3: keep=28 page_min=2026-02-02 page_max=2026-02-07
+  p3: reached older than start_date, stop.
+
+==> 品种子域名 hg
+  p1: keep=25 page_min=2026-01-31 page_max=2026-02-15
+  p1: reached older than start_date, stop.
+
+==> 品种子域名 tudou
+  p1: keep=23 page_min=2026-01-30 page_max=2026-02-15
+  p1: reached older than start_date, stop.
+
+==> 品种子域名 fanqie
+  p1: keep=30 page_min=2026-02-05 page_max=2026-02-15
+  p2: keep=8 page_min=2026-01-26 page_max=2026-02-05
+  p2: reached older than start_date, stop.
+
+==> 品种子域名 qiezi
+  p1: keep=25 page_min=2026-01-31 page_max=2026-02-15
+  p1: reached older than start_date, stop.
+
+Done. inserted=28, skipped=321, total_seen(after_filter)=349
+[周日 2026/02/15 20:01:05.31] END crawl_recent 
+================================================== 
+[周一 2026/02/16 11:30:01.70] START crawl_recent 
+[crawl_recent] db_max_date=2026-02-15 start_date=2026-02-04 end_date=2026-02-16 (days=7, overlap=7)
+
+==> 品种子域名 baicai
+  p1: keep=30 page_min=2026-02-11 page_max=2026-02-15
+  p2: keep=30 page_min=2026-02-05 page_max=2026-02-10
+  p3: keep=9 page_min=2026-01-31 page_max=2026-02-05
+  p3: reached older than start_date, stop.
+
+==> 品种子域名 qincai
+  p1: keep=30 page_min=2026-02-05 page_max=2026-02-15
+  p2: keep=4 page_min=2026-01-26 page_max=2026-02-05
+  p2: reached older than start_date, stop.
+
+==> 品种子域名 bocai
+  p1: keep=30 page_min=2026-02-05 page_max=2026-02-15
+  p2: keep=5 page_min=2026-01-26 page_max=2026-02-05
+  p2: reached older than start_date, stop.
+
+==> 品种子域名 woju
+  p1: keep=30 page_min=2026-02-11 page_max=2026-02-15
+  p2: keep=30 page_min=2026-02-07 page_max=2026-02-11
+  p3: keep=21 page_min=2026-02-02 page_max=2026-02-07
+  p3: reached older than start_date, stop.
+
+==> 品种子域名 hg
+  p1: keep=23 page_min=2026-01-31 page_max=2026-02-15
+  p1: reached older than start_date, stop.
+
+==> 品种子域名 tudou
+  p1: keep=21 page_min=2026-01-30 page_max=2026-02-15
+  p1: reached older than start_date, stop.
+
+==> 品种子域名 fanqie
+  p1: keep=30 page_min=2026-02-05 page_max=2026-02-15
+  p2: keep=5 page_min=2026-01-26 page_max=2026-02-05
+  p2: reached older than start_date, stop.
+
+==> 品种子域名 qiezi
+  p1: keep=23 page_min=2026-01-31 page_max=2026-02-15
+  p1: reached older than start_date, stop.
+
+Done. inserted=0, skipped=321, total_seen(after_filter)=321
+[周一 2026/02/16 11:30:21.18] END crawl_recent 
+================================================== 
+[周一 2026/02/16 20:00:46.74] START crawl_recent 
+[crawl_recent] db_max_date=2026-02-15 start_date=2026-02-04 end_date=2026-02-16 (days=7, overlap=7)
+
+==> 品种子域名 baicai
+  p1: keep=30 page_min=2026-02-12 page_max=2026-02-16
+  p2: keep=30 page_min=2026-02-07 page_max=2026-02-11
+  p3: keep=15 page_min=2026-02-01 page_max=2026-02-06
+  p3: reached older than start_date, stop.
+
+==> 品种子域名 qincai
+  p1: keep=30 page_min=2026-02-06 page_max=2026-02-16
+  p2: keep=7 page_min=2026-01-27 page_max=2026-02-06
+  p2: reached older than start_date, stop.
+
+==> 品种子域名 bocai
+  p1: keep=30 page_min=2026-02-07 page_max=2026-02-16
+  p2: keep=8 page_min=2026-01-27 page_max=2026-02-06
+  p2: reached older than start_date, stop.
+
+==> 品种子域名 woju
+  p1: keep=30 page_min=2026-02-12 page_max=2026-02-16
+  p2: keep=30 page_min=2026-02-08 page_max=2026-02-12
+  p3: keep=28 page_min=2026-02-03 page_max=2026-02-08
+  p3: reached older than start_date, stop.
+
+==> 品种子域名 hg
+  p1: keep=25 page_min=2026-02-01 page_max=2026-02-16
+  p1: reached older than start_date, stop.
+
+==> 品种子域名 tudou
+  p1: keep=23 page_min=2026-01-31 page_max=2026-02-16
+  p1: reached older than start_date, stop.
+
+==> 品种子域名 fanqie
+  p1: keep=30 page_min=2026-02-07 page_max=2026-02-16
+  p2: keep=8 page_min=2026-01-27 page_max=2026-02-06
+  p2: reached older than start_date, stop.
+
+==> 品种子域名 qiezi
+  p1: keep=25 page_min=2026-02-01 page_max=2026-02-16
+  p1: reached older than start_date, stop.
+
+Done. inserted=28, skipped=321, total_seen(after_filter)=349
+[周一 2026/02/16 20:01:04.70] END crawl_recent 
+================================================== 
+[周二 2026/02/17 11:30:01.70] START crawl_recent 
+[crawl_recent] db_max_date=2026-02-16 start_date=2026-02-05 end_date=2026-02-17 (days=7, overlap=7)
+
+==> 品种子域名 baicai
+  p1: keep=30 page_min=2026-02-12 page_max=2026-02-16
+  p2: keep=30 page_min=2026-02-07 page_max=2026-02-11
+  p3: keep=9 page_min=2026-02-01 page_max=2026-02-06
+  p3: reached older than start_date, stop.
+
+==> 品种子域名 qincai
+  p1: keep=30 page_min=2026-02-06 page_max=2026-02-16
+  p2: keep=4 page_min=2026-01-27 page_max=2026-02-06
+  p2: reached older than start_date, stop.
+
+==> 品种子域名 bocai
+  p1: keep=30 page_min=2026-02-07 page_max=2026-02-16
+  p2: keep=5 page_min=2026-01-27 page_max=2026-02-06
+  p2: reached older than start_date, stop.
+
+==> 品种子域名 woju
+  p1: keep=30 page_min=2026-02-12 page_max=2026-02-16
+  p2: keep=30 page_min=2026-02-08 page_max=2026-02-12
+  p3: keep=21 page_min=2026-02-03 page_max=2026-02-08
+  p3: reached older than start_date, stop.
+
+==> 品种子域名 hg
+  p1: keep=23 page_min=2026-02-01 page_max=2026-02-16
+  p1: reached older than start_date, stop.
+
+==> 品种子域名 tudou
+  p1: keep=21 page_min=2026-01-31 page_max=2026-02-16
+  p1: reached older than start_date, stop.
+
+==> 品种子域名 fanqie
+  p1: keep=30 page_min=2026-02-07 page_max=2026-02-16
+  p2: keep=5 page_min=2026-01-27 page_max=2026-02-06
+  p2: reached older than start_date, stop.
+
+==> 品种子域名 qiezi
+  p1: keep=23 page_min=2026-02-01 page_max=2026-02-16
+  p1: reached older than start_date, stop.
+
+Done. inserted=0, skipped=321, total_seen(after_filter)=321
+[周二 2026/02/17 11:30:20.29] END crawl_recent 
+================================================== 
+[周二 2026/02/17 20:00:46.79] START crawl_recent 
+[crawl_recent] db_max_date=2026-02-16 start_date=2026-02-05 end_date=2026-02-17 (days=7, overlap=7)
+
+==> 品种子域名 baicai
+  p1: empty/invalid, stop.
+
+==> 品种子域名 qincai
+  p1: keep=30 page_min=2026-02-07 page_max=2026-02-17
+  p2: keep=5 page_min=2026-01-27 page_max=2026-02-06
+  p2: reached older than start_date, stop.
+
+==> 品种子域名 bocai
+  p1: keep=30 page_min=2026-02-07 page_max=2026-02-17
+Traceback (most recent call last):
+  File "D:\DevelopTools\Anaconda\envs\veg_env\Lib\site-packages\urllib3\connectionpool.py", line 534, in _make_request
+    response = conn.getresponse()
+               ^^^^^^^^^^^^^^^^^^
+  File "D:\DevelopTools\Anaconda\envs\veg_env\Lib\site-packages\urllib3\connection.py", line 571, in getresponse
+    httplib_response = super().getresponse()
+                       ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DevelopTools\Anaconda\envs\veg_env\Lib\http\client.py", line 1395, in getresponse
+    response.begin()
+  File "D:\DevelopTools\Anaconda\envs\veg_env\Lib\http\client.py", line 325, in begin
+    version, status, reason = self._read_status()
+                              ^^^^^^^^^^^^^^^^^^^
+  File "D:\DevelopTools\Anaconda\envs\veg_env\Lib\http\client.py", line 286, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DevelopTools\Anaconda\envs\veg_env\Lib\socket.py", line 718, in readinto
+    return self._sock.recv_into(b)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+TimeoutError: timed out
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\DevelopTools\Anaconda\envs\veg_env\Lib\site-packages\requests\adapters.py", line 644, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "D:\DevelopTools\Anaconda\envs\veg_env\Lib\site-packages\urllib3\connectionpool.py", line 841, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "D:\DevelopTools\Anaconda\envs\veg_env\Lib\site-packages\urllib3\util\retry.py", line 490, in increment
+    raise reraise(type(error), error, _stacktrace)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DevelopTools\Anaconda\envs\veg_env\Lib\site-packages\urllib3\util\util.py", line 39, in reraise
+    raise value
+  File "D:\DevelopTools\Anaconda\envs\veg_env\Lib\site-packages\urllib3\connectionpool.py", line 787, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "D:\DevelopTools\Anaconda\envs\veg_env\Lib\site-packages\urllib3\connectionpool.py", line 536, in _make_request
+    self._raise_timeout(err=e, url=url, timeout_value=read_timeout)
+  File "D:\DevelopTools\Anaconda\envs\veg_env\Lib\site-packages\urllib3\connectionpool.py", line 367, in _raise_timeout
+    raise ReadTimeoutError(
+urllib3.exceptions.ReadTimeoutError: HTTPConnectionPool(host='127.0.0.1', port=7897): Read timed out. (read timeout=15)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Veg\manage.py", line 17, in <module>
+    main()
+  File "D:\Veg\manage.py", line 14, in main
+    execute_from_command_line(sys.argv)
+  File "D:\DevelopTools\Anaconda\envs\veg_env\Lib\site-packages\django\core\management\__init__.py", line 442, in execute_from_command_line
+    utility.execute()
+  File "D:\DevelopTools\Anaconda\envs\veg_env\Lib\site-packages\django\core\management\__init__.py", line 436, in execute
+    self.fetch_command(subcommand).run_from_argv(self.argv)
+  File "D:\DevelopTools\Anaconda\envs\veg_env\Lib\site-packages\django\core\management\base.py", line 416, in run_from_argv
+    self.execute(*args, **cmd_options)
+  File "D:\DevelopTools\Anaconda\envs\veg_env\Lib\site-packages\django\core\management\base.py", line 460, in execute
+    output = self.handle(*args, **options)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Veg\api\management\commands\crawl_recent.py", line 183, in handle
+    raw_df = fetch_page_df(v_type, page, session, debug=debug)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Veg\api\management\commands\crawl_recent.py", line 78, in fetch_page_df
+    resp = session.get(url, headers=HEADERS, timeout=15)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DevelopTools\Anaconda\envs\veg_env\Lib\site-packages\requests\sessions.py", line 602, in get
+    return self.request("GET", url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DevelopTools\Anaconda\envs\veg_env\Lib\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DevelopTools\Anaconda\envs\veg_env\Lib\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DevelopTools\Anaconda\envs\veg_env\Lib\site-packages\requests\adapters.py", line 690, in send
+    raise ReadTimeout(e, request=request)
+requests.exceptions.ReadTimeout: HTTPConnectionPool(host='127.0.0.1', port=7897): Read timed out. (read timeout=15)
+[周二 2026/02/17 20:01:19.66] END crawl_recent 
+================================================== 
+[周三 2026/02/18 11:30:01.45] START crawl_recent 
+[crawl_recent] db_max_date=2026-02-16 start_date=2026-02-06 end_date=2026-02-18 (days=7, overlap=7)
+
+==> 品种子域名 baicai
+Traceback (most recent call last):
+  File "D:\DevelopTools\Anaconda\envs\veg_env\Lib\site-packages\urllib3\connection.py", line 204, in _new_conn
+    sock = connection.create_connection(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DevelopTools\Anaconda\envs\veg_env\Lib\site-packages\urllib3\util\connection.py", line 85, in create_connection
+    raise err
+  File "D:\DevelopTools\Anaconda\envs\veg_env\Lib\site-packages\urllib3\util\connection.py", line 73, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [WinError 10061] 由于目标计算机积极拒绝，无法连接。
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\DevelopTools\Anaconda\envs\veg_env\Lib\site-packages\urllib3\connectionpool.py", line 787, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "D:\DevelopTools\Anaconda\envs\veg_env\Lib\site-packages\urllib3\connectionpool.py", line 493, in _make_request
+    conn.request(
+  File "D:\DevelopTools\Anaconda\envs\veg_env\Lib\site-packages\urllib3\connection.py", line 500, in request
+    self.endheaders()
+  File "D:\DevelopTools\Anaconda\envs\veg_env\Lib\http\client.py", line 1298, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "D:\DevelopTools\Anaconda\envs\veg_env\Lib\http\client.py", line 1058, in _send_output
+    self.send(msg)
+  File "D:\DevelopTools\Anaconda\envs\veg_env\Lib\http\client.py", line 996, in send
+    self.connect()
+  File "D:\DevelopTools\Anaconda\envs\veg_env\Lib\site-packages\urllib3\connection.py", line 331, in connect
+    self.sock = self._new_conn()
+                ^^^^^^^^^^^^^^^^
+  File "D:\DevelopTools\Anaconda\envs\veg_env\Lib\site-packages\urllib3\connection.py", line 219, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: HTTPConnection(host='127.0.0.1', port=7897): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。
+
+The above exception was the direct cause of the following exception:
+
+urllib3.exceptions.ProxyError: ('Unable to connect to proxy', NewConnectionError("HTTPConnection(host='127.0.0.1', port=7897): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。"))
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\DevelopTools\Anaconda\envs\veg_env\Lib\site-packages\requests\adapters.py", line 644, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "D:\DevelopTools\Anaconda\envs\veg_env\Lib\site-packages\urllib3\connectionpool.py", line 841, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "D:\DevelopTools\Anaconda\envs\veg_env\Lib\site-packages\urllib3\util\retry.py", line 535, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='127.0.0.1', port=7897): Max retries exceeded with url: http://baicai.cnveg.com/price/fujian/p1.html (Caused by ProxyError('Unable to connect to proxy', NewConnectionError("HTTPConnection(host='127.0.0.1', port=7897): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。")))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Veg\manage.py", line 17, in <module>
+    main()
+  File "D:\Veg\manage.py", line 14, in main
+    execute_from_command_line(sys.argv)
+  File "D:\DevelopTools\Anaconda\envs\veg_env\Lib\site-packages\django\core\management\__init__.py", line 442, in execute_from_command_line
+    utility.execute()
+  File "D:\DevelopTools\Anaconda\envs\veg_env\Lib\site-packages\django\core\management\__init__.py", line 436, in execute
+    self.fetch_command(subcommand).run_from_argv(self.argv)
+  File "D:\DevelopTools\Anaconda\envs\veg_env\Lib\site-packages\django\core\management\base.py", line 416, in run_from_argv
+    self.execute(*args, **cmd_options)
+  File "D:\DevelopTools\Anaconda\envs\veg_env\Lib\site-packages\django\core\management\base.py", line 460, in execute
+    output = self.handle(*args, **options)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Veg\api\management\commands\crawl_recent.py", line 183, in handle
+    raw_df = fetch_page_df(v_type, page, session, debug=debug)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Veg\api\management\commands\crawl_recent.py", line 78, in fetch_page_df
+    resp = session.get(url, headers=HEADERS, timeout=15)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DevelopTools\Anaconda\envs\veg_env\Lib\site-packages\requests\sessions.py", line 602, in get
+    return self.request("GET", url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DevelopTools\Anaconda\envs\veg_env\Lib\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DevelopTools\Anaconda\envs\veg_env\Lib\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DevelopTools\Anaconda\envs\veg_env\Lib\site-packages\requests\adapters.py", line 671, in send
+    raise ProxyError(e, request=request)
+requests.exceptions.ProxyError: HTTPConnectionPool(host='127.0.0.1', port=7897): Max retries exceeded with url: http://baicai.cnveg.com/price/fujian/p1.html (Caused by ProxyError('Unable to connect to proxy', NewConnectionError("HTTPConnection(host='127.0.0.1', port=7897): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。")))
+[周三 2026/02/18 11:30:06.72] END crawl_recent 
+================================================== 
+[周三 2026/02/18 20:00:46.42] START crawl_recent 
+[crawl_recent] db_max_date=2026-02-16 start_date=2026-02-06 end_date=2026-02-18 (days=7, overlap=7)
+
+==> 品种子域名 baicai
+Traceback (most recent call last):
+  File "D:\DevelopTools\Anaconda\envs\veg_env\Lib\site-packages\urllib3\connection.py", line 204, in _new_conn
+    sock = connection.create_connection(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DevelopTools\Anaconda\envs\veg_env\Lib\site-packages\urllib3\util\connection.py", line 85, in create_connection
+    raise err
+  File "D:\DevelopTools\Anaconda\envs\veg_env\Lib\site-packages\urllib3\util\connection.py", line 73, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [WinError 10061] 由于目标计算机积极拒绝，无法连接。
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\DevelopTools\Anaconda\envs\veg_env\Lib\site-packages\urllib3\connectionpool.py", line 787, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "D:\DevelopTools\Anaconda\envs\veg_env\Lib\site-packages\urllib3\connectionpool.py", line 493, in _make_request
+    conn.request(
+  File "D:\DevelopTools\Anaconda\envs\veg_env\Lib\site-packages\urllib3\connection.py", line 500, in request
+    self.endheaders()
+  File "D:\DevelopTools\Anaconda\envs\veg_env\Lib\http\client.py", line 1298, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "D:\DevelopTools\Anaconda\envs\veg_env\Lib\http\client.py", line 1058, in _send_output
+    self.send(msg)
+  File "D:\DevelopTools\Anaconda\envs\veg_env\Lib\http\client.py", line 996, in send
+    self.connect()
+  File "D:\DevelopTools\Anaconda\envs\veg_env\Lib\site-packages\urllib3\connection.py", line 331, in connect
+    self.sock = self._new_conn()
+                ^^^^^^^^^^^^^^^^
+  File "D:\DevelopTools\Anaconda\envs\veg_env\Lib\site-packages\urllib3\connection.py", line 219, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: HTTPConnection(host='127.0.0.1', port=7897): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。
+
+The above exception was the direct cause of the following exception:
+
+urllib3.exceptions.ProxyError: ('Unable to connect to proxy', NewConnectionError("HTTPConnection(host='127.0.0.1', port=7897): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。"))
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\DevelopTools\Anaconda\envs\veg_env\Lib\site-packages\requests\adapters.py", line 644, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "D:\DevelopTools\Anaconda\envs\veg_env\Lib\site-packages\urllib3\connectionpool.py", line 841, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "D:\DevelopTools\Anaconda\envs\veg_env\Lib\site-packages\urllib3\util\retry.py", line 535, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='127.0.0.1', port=7897): Max retries exceeded with url: http://baicai.cnveg.com/price/fujian/p1.html (Caused by ProxyError('Unable to connect to proxy', NewConnectionError("HTTPConnection(host='127.0.0.1', port=7897): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。")))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Veg\manage.py", line 17, in <module>
+    main()
+  File "D:\Veg\manage.py", line 14, in main
+    execute_from_command_line(sys.argv)
+  File "D:\DevelopTools\Anaconda\envs\veg_env\Lib\site-packages\django\core\management\__init__.py", line 442, in execute_from_command_line
+    utility.execute()
+  File "D:\DevelopTools\Anaconda\envs\veg_env\Lib\site-packages\django\core\management\__init__.py", line 436, in execute
+    self.fetch_command(subcommand).run_from_argv(self.argv)
+  File "D:\DevelopTools\Anaconda\envs\veg_env\Lib\site-packages\django\core\management\base.py", line 416, in run_from_argv
+    self.execute(*args, **cmd_options)
+  File "D:\DevelopTools\Anaconda\envs\veg_env\Lib\site-packages\django\core\management\base.py", line 460, in execute
+    output = self.handle(*args, **options)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Veg\api\management\commands\crawl_recent.py", line 183, in handle
+    raw_df = fetch_page_df(v_type, page, session, debug=debug)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Veg\api\management\commands\crawl_recent.py", line 78, in fetch_page_df
+    resp = session.get(url, headers=HEADERS, timeout=15)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DevelopTools\Anaconda\envs\veg_env\Lib\site-packages\requests\sessions.py", line 602, in get
+    return self.request("GET", url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DevelopTools\Anaconda\envs\veg_env\Lib\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DevelopTools\Anaconda\envs\veg_env\Lib\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DevelopTools\Anaconda\envs\veg_env\Lib\site-packages\requests\adapters.py", line 671, in send
+    raise ProxyError(e, request=request)
+requests.exceptions.ProxyError: HTTPConnectionPool(host='127.0.0.1', port=7897): Max retries exceeded with url: http://baicai.cnveg.com/price/fujian/p1.html (Caused by ProxyError('Unable to connect to proxy', NewConnectionError("HTTPConnection(host='127.0.0.1', port=7897): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。")))
+[周三 2026/02/18 20:00:52.00] END crawl_recent 
+================================================== 
+[周四 2026/02/19 11:30:01.56] START crawl_recent 
+[crawl_recent] db_max_date=2026-02-16 start_date=2026-02-07 end_date=2026-02-19 (days=7, overlap=7)
+
+==> 品种子域名 baicai
+  p1: keep=30 page_min=2026-02-12 page_max=2026-02-18
+  p2: keep=30 page_min=2026-02-07 page_max=2026-02-12
+  p3: keep=5 page_min=2026-02-02 page_max=2026-02-07
+  p3: reached older than start_date, stop.
+
+==> 品种子域名 qincai
+  p1: keep=30 page_min=2026-02-08 page_max=2026-02-18
+  p2: keep=2 page_min=2026-01-28 page_max=2026-02-07
+  p2: reached older than start_date, stop.
+
+==> 品种子域名 bocai
+  p1: keep=30 page_min=2026-02-08 page_max=2026-02-18
+  p2: keep=3 page_min=2026-01-28 page_max=2026-02-07
+  p2: reached older than start_date, stop.
+
+==> 品种子域名 woju
+  p1: keep=30 page_min=2026-02-13 page_max=2026-02-18
+  p2: keep=30 page_min=2026-02-09 page_max=2026-02-13
+  p3: keep=17 page_min=2026-02-04 page_max=2026-02-09
+  p3: reached older than start_date, stop.
+
+==> 品种子域名 hg
+  p1: keep=21 page_min=2026-02-02 page_max=2026-02-18
+  p1: reached older than start_date, stop.
+
+==> 品种子域名 tudou
+  p1: keep=20 page_min=2026-02-01 page_max=2026-02-18
+  p1: reached older than start_date, stop.
+
+==> 品种子域名 fanqie
+  p1: keep=30 page_min=2026-02-08 page_max=2026-02-18
+  p2: keep=3 page_min=2026-01-28 page_max=2026-02-07
+  p2: reached older than start_date, stop.
+
+==> 品种子域名 qiezi
+  p1: keep=21 page_min=2026-02-02 page_max=2026-02-18
+  p1: reached older than start_date, stop.
+
+Done. inserted=24, skipped=278, total_seen(after_filter)=302
+[周四 2026/02/19 11:30:20.75] END crawl_recent 
+================================================== 
+[周四 2026/02/19 20:00:46.63] START crawl_recent 
+[crawl_recent] db_max_date=2026-02-18 start_date=2026-02-07 end_date=2026-02-19 (days=7, overlap=7)
+
+==> 品种子域名 baicai
+  p1: empty/invalid, stop.
+
+==> 品种子域名 qincai
+  p1: empty/invalid, stop.
+
+==> 品种子域名 bocai
+  p1: empty/invalid, stop.
+
+==> 品种子域名 woju
+  p1: empty/invalid, stop.
+
+==> 品种子域名 hg
+  p1: empty/invalid, stop.
+
+==> 品种子域名 tudou
+  p1: empty/invalid, stop.
+
+==> 品种子域名 fanqie
+  p1: empty/invalid, stop.
+
+==> 品种子域名 qiezi
+  p1: empty/invalid, stop.
+
+Done. inserted=0, skipped=0, total_seen(after_filter)=0
+[周四 2026/02/19 20:01:34.82] END crawl_recent 

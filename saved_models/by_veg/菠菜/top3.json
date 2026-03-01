@@ -1,0 +1,57 @@
+{
+  "veg": "菠菜",
+  "horizon": 7,
+  "group_mode": "per_veg",
+  "target_col": "avg_price",
+  "date_col": "date",
+  "decimals": 2,
+  "feature_cols": [
+    "dow",
+    "month",
+    "day",
+    "is_weekend",
+    "quarter",
+    "day_of_year",
+    "sin_doy_1y",
+    "cos_doy_1y",
+    "roll_mean_7",
+    "roll_std_7",
+    "roll_min_7",
+    "roll_max_7",
+    "roll_mean_14",
+    "roll_std_14",
+    "roll_min_14",
+    "roll_max_14"
+  ],
+  "lags": [
+    1,
+    2,
+    3,
+    7,
+    14
+  ],
+  "windows": [
+    7,
+    14
+  ],
+  "top3": [
+    {
+      "model": "Ridge",
+      "RMSE": 0.5595138748727315,
+      "MAE": 0.42112472772958354,
+      "MAPE(%)": 10.294011199072196
+    },
+    {
+      "model": "HistGradientBoosting",
+      "RMSE": 0.7543385857430192,
+      "MAE": 0.5996240038826147,
+      "MAPE(%)": 14.223931385636773
+    },
+    {
+      "model": "RandomForest",
+      "RMSE": 1.0775111701587083,
+      "MAE": 0.9721397058823532,
+      "MAPE(%)": 22.751689637451307
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "veg": "油麦菜",
+  "horizon": 7,
+  "group_mode": "per_veg",
+  "target_col": "avg_price",
+  "date_col": "date",
+  "decimals": 2,
+  "feature_cols": [
+    "dow",
+    "month",
+    "day",
+    "is_weekend",
+    "quarter",
+    "day_of_year",
+    "sin_doy_1y",
+    "cos_doy_1y",
+    "roll_mean_7",
+    "roll_std_7",
+    "roll_min_7",
+    "roll_max_7",
+    "roll_mean_14",
+    "roll_std_14",
+    "roll_min_14",
+    "roll_max_14"
+  ],
+  "lags": [
+    1,
+    2,
+    3,
+    7,
+    14
+  ],
+  "windows": [
+    7,
+    14
+  ],
+  "top3": [
+    {
+      "model": "RandomForest",
+      "RMSE": 0.4137502113584883,
+      "MAE": 0.34674193548387117,
+      "MAPE(%)": 14.292378134650347
+    },
+    {
+      "model": "ExtraTrees",
+      "RMSE": 0.42175829601781806,
+      "MAE": 0.3511881720430068,
+      "MAPE(%)": 14.393461944181327
+    },
+    {
+      "model": "Ridge",
+      "RMSE": 0.43060817614215097,
+      "MAE": 0.35593782182730493,
+      "MAPE(%)": 15.081785063334388
+    }
+  ]
+}

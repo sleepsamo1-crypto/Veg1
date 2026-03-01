@@ -1,0 +1,57 @@
+{
+  "veg": "西红柿",
+  "horizon": 7,
+  "group_mode": "per_veg",
+  "target_col": "avg_price",
+  "date_col": "date",
+  "decimals": 2,
+  "feature_cols": [
+    "dow",
+    "month",
+    "day",
+    "is_weekend",
+    "quarter",
+    "day_of_year",
+    "sin_doy_1y",
+    "cos_doy_1y",
+    "roll_mean_7",
+    "roll_std_7",
+    "roll_min_7",
+    "roll_max_7",
+    "roll_mean_14",
+    "roll_std_14",
+    "roll_min_14",
+    "roll_max_14"
+  ],
+  "lags": [
+    1,
+    2,
+    3,
+    7,
+    14
+  ],
+  "windows": [
+    7,
+    14
+  ],
+  "top3": [
+    {
+      "model": "HistGradientBoosting",
+      "RMSE": 0.5921924291992591,
+      "MAE": 0.45423036846535164,
+      "MAPE(%)": 13.807293768435361
+    },
+    {
+      "model": "Ridge",
+      "RMSE": 0.6618187786550659,
+      "MAE": 0.5065081838362596,
+      "MAPE(%)": 15.31517763342784
+    },
+    {
+      "model": "ExtraTrees",
+      "RMSE": 0.6624531143160639,
+      "MAE": 0.532601593137254,
+      "MAPE(%)": 16.222757074461363
+    }
+  ]
+}
