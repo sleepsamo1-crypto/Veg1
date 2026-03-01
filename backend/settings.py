@@ -78,11 +78,11 @@ WSGI_APPLICATION = "backend.wsgi.application"
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'vegetable_db',  # 你的数据库名称
-        'USER': 'root',  # 数据库用户名
-        'PASSWORD': '123456',  # 数据库密码
-        'HOST': 'localhost',  # 数据库主机
-        'PORT': '3306',  # MySQL 默认端口
+        'NAME': 'vegetable_db',
+        'USER': 'root',
+        'PASSWORD': '123456',
+        'HOST': 'localhost',
+        'PORT': '3306',
     }
 }
 
@@ -107,7 +107,7 @@ CORS_ALLOWED_ORIGINS = [
     "http://127.0.0.1:5173",
 ]
 CSRF_TRUSTED_ORIGINS = [
-    "http://localhost:5173",   # 你的 Vite 开发服务器地址
+    "http://localhost:5173",
 ]
 
 # Internationalization
@@ -131,3 +131,20 @@ STATIC_URL = "static/"
 # https://docs.djangoproject.com/en/5.2/ref/settings/#default-auto-field
 
 DEFAULT_AUTO_FIELD = "django.db.models.BigAutoField"
+
+VEGETABLE_CRAWL_CONFIG = {
+    "PROVINCE_CODE": "fujian",
+    "PROVINCE_NAME": "福建省",
+    "TYPE_LIST": ["白菜", "芹菜", "菠菜", "莴苣", "黄瓜", "西红柿", "土豆", "茄子"],
+    "SITE_MIN_DATE": "2023-01-01",
+    "MAX_PAGE": 200,
+    "BATCH_SIZE": 1000,
+    "SLEEP_RANGE": (0.3, 0.9),
+    "TIMEOUT": 15,
+    "OVERLAP_DAYS": 7,
+    "DEFAULT_RECENT_DAYS": 7,
+    "TABLE_INDEX": 16,
+}
+
+TIME_ZONE = "Asia/Shanghai"
+USE_TZ = True  # 保持True，Django会自动处理时区转换
