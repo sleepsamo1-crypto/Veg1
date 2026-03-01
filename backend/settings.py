@@ -136,7 +136,7 @@ VEGETABLE_CRAWL_CONFIG = {
     "PROVINCE_CODE": "fujian",
     "PROVINCE_NAME": "福建省",
     "TYPE_LIST": ["白菜", "芹菜", "菠菜", "莴苣", "黄瓜", "西红柿", "土豆", "茄子"],
-    "SITE_MIN_DATE": "2023-01-01",
+    "SITE_MIN_DATE": "2026-01-01",
     "MAX_PAGE": 200,
     "BATCH_SIZE": 1000,
     "SLEEP_RANGE": (0.3, 0.9),
@@ -147,4 +147,4 @@ VEGETABLE_CRAWL_CONFIG = {
 }
 
 TIME_ZONE = "Asia/Shanghai"
-USE_TZ = True  # 保持True，Django会自动处理时区转换
+USE_TZ = False
